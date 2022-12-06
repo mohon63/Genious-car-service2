@@ -3,42 +3,42 @@
         "id": 1,
         "name": "ENGINE DIAGNOSTIC",
         "price": "300",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius deserunt facere libero?",
-        "img": "https://i.ibb.co/GPcczTw/repair1.png"
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/dGDkr4v/1.jpg"
     },
     {
         "id": 2,
-        "name": "ENGINE DIAGNOSTIC 2",
-        "price": "200",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius deserunt facere libero?",
-        "img": "https://i.ibb.co/GPcczTw/repair1.png"
+        "name": "WHEEL ALIGNMENT",
+        "price": "100",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/tY8dmnP/2.jpg"
     },
     {
         "id": 3,
-        "name": "ENGINE DIAGNOSTIC 3",
-        "price": "100",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius deserunt facere libero?",
-        "img": "https://i.ibb.co/GPcczTw/repair1.png"
+        "name": "OIL CHANGING",
+        "price": "150",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/Yh04YVw/3.jpg"
     },
     {
         "id": 4,
-        "name": "ENGINE DIAGNOSTIC 4",
-        "price": "400",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius deserunt facere libero?",
-        "img": "https://i.ibb.co/GPcczTw/repair1.png"
+        "name": "BRAKE REPARING",
+        "price": "180",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/ZX2Cbkn/4.jpg"
     },
     {
         "id": 5,
-        "name": "ENGINE DIAGNOSTIC 4.1",
-        "price": "400",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius deserunt facere libero?",
-        "img": "https://i.ibb.co/GPcczTw/repair1.png"
+        "name": "WASH AND GLASSING",
+        "price": "100",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/FgQ3jXp/5.jpg"
     },
     {
         "id": 6,
-        "name": "ENGINE DIAGNOSTIC 5",
-        "price": "500",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius deserunt facere libero?",
-        "img": "https://i.ibb.co/GPcczTw/repair1.png"
+        "name": "COMPLETE ANALYSIS",
+        "price": "300",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa",
+        "img": "https://i.ibb.co/zJy5ZDd/6.jpg"
     }
 ]
